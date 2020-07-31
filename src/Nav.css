@@ -1,0 +1,11 @@
+.nav {
+  padding: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  overflow-y: hidden;
+}
+.nav_logo {
+  width: 180px;
+  object-fit: contain;
+}
